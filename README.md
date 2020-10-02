@@ -5,7 +5,6 @@ This Repository Contains my work going through the Natural Language Processing N
   1. [Parts of Speech Tagging](#project-1-parts-of-speech-tagging)
   2. [Machine Translation](#project-2-machine-translation)
   3. [DNN Speech Recognizer](#project-3-dnn-speech-recognizer)
-  4. [Mini Projects](#other-mini-projects)
   
 
 ## **Project 1:Parts of Speech Tagging**  
